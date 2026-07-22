@@ -1,0 +1,16 @@
+{
+  "short_name": "Libreta",
+  "name": "Libreta - Control de Gastos",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2910/2910756.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "display": "standalone",
+  "orientation": "portrait"
+}
